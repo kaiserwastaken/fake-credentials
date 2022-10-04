@@ -21,7 +21,7 @@ def startup_sequence():
 [/bold red][italic bold]       A fake identity generator by [/][bold yellow]@Kaiser[/]
 
 [bold cyan][G][/] - [italic]Generate a new identity[/]
-[bold cyan][I][/] - [italic]Generate a new fake image[/]
+[bold cyan][I][/] - [italic]Generate a new fake face[/]
 [bold cyan][Q][/] - [italic]Quit[/]
 """)
 
