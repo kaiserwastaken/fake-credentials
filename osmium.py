@@ -1,10 +1,11 @@
+
 import platform, os
 from rich.console import Console
 
 import classes as c
 import get_faces as face
-
-console = Console()
+#Made by Kaiser @kaiserwastaken.org | github.com/kaiserwastaken
+console = Console() 
 def startup_sequence():
     if platform.system() == "Windows":
         os.system("cls")
@@ -38,3 +39,4 @@ if __name__ == '__main__':
             face.generate()
         elif i == "q":
             break
+#Made by Kãiser
