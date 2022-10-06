@@ -13,7 +13,7 @@ console = Console()
 
 class FakeIdentity:
     
-    def __init__(self, fullname=None, age=None, gender=None, phone_number=None, email=None, adress=None):
+    def __init__(self, fullname=None, age=None, gender=None, phone_number=None, madebykaiser= None, email=None, adress=None):
         self.fullname = fullname
         self.age = age
         self.gender = gender
